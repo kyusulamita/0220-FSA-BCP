@@ -44,6 +44,7 @@
 ## **02 Loops And Debugging**
 
 **[Live Lecture](https://youtu.be/aiyzPInAbaI)**
+
 **[Review Lecture](https://youtu.be/sQFIp38A7x8)**
 
 
