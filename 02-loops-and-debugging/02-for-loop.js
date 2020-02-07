@@ -7,6 +7,7 @@
 
   for (initialization; condition; final-expression) {
     // block of code
+
   }
 
   the block of code will run over and over until the condition evaluates to false
@@ -15,7 +16,7 @@
 
 // remember the while loop from earlier??
 // let count = 1;
-// while (count < 3) {
+// while (count <= 3) {
 //   console.log('count is', count);
 //   count++;
 // }
@@ -41,6 +42,7 @@
 // }
 // i += 100 // i = i + 100
 // can increment by any number
+
 // for (let i = 100; i <= 300; i += 100) {
 //   console.log('i is:', i);
 // }
@@ -55,23 +57,34 @@
 let letters = 'abcdefg';
 
 // console.log(letters[0])//'a'
-//letters[1]//'b'
-//letters[2]//'c'
+// console.log(letters[1])//'b'
+// console.log(letters[2])//'c'
+//
+// console.log(letters[6]) // 'g'
+// console.log(letters[7]);
 
 // console.log(letters.length);
+
 // for (let i = 0; i < letters.length; i++) {
 //   let currentLetter = letters[i];
 //   console.log(`The letter at index ${i} is ${currentLetter}`);
 // }
 
+// let count = 0;
+// while ( count < letters.length){
+//   let currentLetter = letters[count];
+//   console.log(`The letter at index ${count} is ${currentLetter}`);
+//   count++;
+// }
 
 // console.log(letters);
 
 // FOR THIS WORKSHOP
 // important to note -> strings are inmutable
 // what does this mean???
-letters[0] = 'Z';
-console.log(letters);
+// console.log(letters);
+// letters[0] = 'Z';
+// console.log(letters);
 // nothing happened!
 
 
@@ -79,12 +92,19 @@ console.log(letters);
 
 // Try it out:
 // make a capitalized version of our letters string
-let newStr  = '';  // undefined
+let newStr = ''; // undefined
+
 for (let i = 0; i < letters.length; i++) {
   let currentLetter = letters[i];
+  // making it an uppercase letter
   let capitalLetter = currentLetter.toUpperCase();
+  letters[i] = capitalLetter;
+  // '' + 'A'
+  // 'A' + 'B'
+  // 'AB' + 'C'
   newStr = newStr + capitalLetter;
   console.log(`The letter at index ${i} is ${capitalLetter}`);
 }
 
 console.log(newStr);
+console.log(letters);

@@ -26,20 +26,29 @@
 
 // const isLotteryWinner = (lotteryNum = 25) => {
 function isLotteryWinner (lotteryNum = 25) {
+  // all this means is default to 25 for lotteryNum
   // returns a number between 1 and 100;
+
   const winningNumber = Math.floor(Math.random() * 100) + 1;
   return winningNumber === lotteryNum;
 }
 
 
 const lotteryNum = 14;
-let wonLottery = isLotteryWinner(lotteryNum);
+let wonLottery = isLotteryWinner(14);
 let ticketsPurchased = 1;
 
 while (wonLottery === false) {
-  wonLottery = isLotteryWinner(lotteryNum);
+  wonLottery = isLotteryWinner(14);
   ticketsPurchased++;
 }
+
+
+
+// for ( ;wonLottery === false;) {
+//   wonLottery = isLotteryWinner(14);
+//   ticketsPurchased++;
+// }
 
 console.log(`You finally won! It only took ${ticketsPurchased} tickets to win`);
 

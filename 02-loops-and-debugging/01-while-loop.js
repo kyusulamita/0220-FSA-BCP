@@ -14,11 +14,13 @@
 
 */
 
-let count = 3;
-while (count >= 1) {
-  console.log('count is', count);
-  count--;
-}
+// let count = 3;
+// while (count >= 1) {
+//   console.log('count is', count);
+//   count--;
+// }
+
+// console.log(count);
 
 // while (false) {
 //   console.log('this line of code will never run');
@@ -35,4 +37,5 @@ while (count >= 1) {
 // // have to make sure the conditional is eventually false!
 // while (count >= 1) {
 //   console.log('count is', count);
+//   count--;
 // }

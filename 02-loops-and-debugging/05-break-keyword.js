@@ -1,11 +1,12 @@
-/* eslint-disable no-constant-condition */
+
+
 // the break keyword breaks out of the loop permanently
 // let myGrade = 'A';
 // while (true) {
-
+//   // 'A+++'
 //   myGrade += '+';
-//   // 'A++'
-//   if (myGrade.length === 3) {
+  
+//   if (myGrade.length === 4) {
 //     break;
 //     console.log("After break")
 //   }
@@ -21,6 +22,7 @@
 //     break;
 //   }
 // }
+
 
 const isLotteryWinner = (lotteryNum = 25) => {
   // returns a number between 1 and 100;
