@@ -48,3 +48,7 @@ if (wonLottery) {
 } else {
   console.log(`You spent too much on tickets, we had to make it stop`);
 }
+
+// const cat = 'Pusheen';
+// console.log(cat);
+
