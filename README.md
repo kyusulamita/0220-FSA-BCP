@@ -43,7 +43,7 @@
 
 ## **02 Loops And Debugging**
 
-<!-- **[Live Lecture]()** -->
+**[Live Lecture](https://youtu.be/aiyzPInAbaI)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac572977ec3340004bddd57/text)
 
