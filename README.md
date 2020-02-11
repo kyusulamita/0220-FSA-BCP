@@ -65,5 +65,8 @@
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 
+[Solution](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
+
 [Full Notes (repl.it)](https://repl.it/@mlisonek/2002-Coercion-and-Truthiness)
+
 [Full Notes (file)](03-coercion-and-truthiness/03-coercion-and-truthiness.js)
