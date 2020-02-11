@@ -1,8 +1,6 @@
 # 0220-BCP-NY
 
-
 [![Run on Repl.it](https://repl.it/badge/github/kyusulamita/0220-FSA-BCP)](https://repl.it/github/kyusulamita/0220-FSA-BCP)
-
 
 ## Table of Contents
 
@@ -47,7 +45,6 @@
 
 **[Review Lecture](https://youtu.be/sQFIp38A7x8)**
 
-
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac572977ec3340004bddd57/text)
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57192f7ff470004a63148/content/5ac57384f7ff470004a63170/text)
@@ -61,3 +58,12 @@
 3. [Which is better?](02-loops-and-debugging/03-which-is-better.js)
 4. [Continue Keyword](02-loops-and-debugging/04-continue-keyword.js)
 5. [Break Keyword](02-loops-and-debugging/05-break-keyword.js)
+
+## **03 Coercion && Truthiness**
+
+**[Live Lecture](https://youtu.be/Onn4h1xwgdQ)**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
+
+[Full Notes (repl.it)](https://repl.it/@mlisonek/2002-Coercion-and-Truthiness)
+[Full Notes (file)](03-coercion-and-truthiness/03-coercion-and-truthiness.js)
