@@ -78,3 +78,5 @@
 [Full Notes (repl.it)](https://repl.it/@mlisonek/2002-Scope)
 
 [Full Notes (file)](04-scope/scope.js)
+
+**[Live Lecture](https://youtu.be/t7m-cFwBc9k)**
