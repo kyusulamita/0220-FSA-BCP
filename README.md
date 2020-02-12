@@ -76,4 +76,5 @@
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac576417ec3340004bdddb4/content/5ac576417ec3340004bdddb9/text)
 
 [Full Notes (repl.it)](https://repl.it/@mlisonek/2002-Scope)
+
 [Full Notes (file)](04-scope/scope.js)
