@@ -94,3 +94,24 @@
 [Full Notes (file)](05-arrays-1/05-arrays-1.js)
 
 **[Live Lecture](https://youtu.be/lSwyuVRaLcg)**
+
+
+
+## **06 Arrays II**
+
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde19/text)**
+
+**[Live Lecture](https://youtu.be/0KaphtxccW8)**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1a/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
+
+### Notes 
+[Full Notes](06-array-ii)
+
+1. [Splice](06-array-ii/01-splice.js)
+2. [Join + Split](06-array-ii/02-join-split.js)
+3. [Concat](06-array-ii/03-concat.js)
+4. [Nested Arrays](06-array-ii/04-nested-arrays.js)
+
