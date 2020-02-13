@@ -8,11 +8,11 @@
 */
 
 
-let older = ["Mr Bear", "Pusheen"];
-let younger = ["Planty", "Mr Sheep"];
-const moreNames = ["Theodore"];
-let notAnArr = "John";
-let notAnArr2 = "Thomas"
+// let older = ["Mr Bear", "Pusheen"];
+// let younger = ["Planty", "Mr Sheep"];
+// const moreNames = ["Theodore"];
+// let notAnArr = "John";
+// let notAnArr2 = "Thomas"
 
 // const names = older.concat(younger);
 // console.log(names);
@@ -20,8 +20,8 @@ let notAnArr2 = "Thomas"
 // console.log(younger);
 // const names = older.concat(younger, moreNames);
 // console.log(names);
-const names = younger.concat(notAnArr, notAnArr2);
-console.log(names);
+// const names = younger.concat(notAnArr, notAnArr2);
+// console.log(names);
 // console.log(names);
 // console.log(older);
 // console.log(younger);

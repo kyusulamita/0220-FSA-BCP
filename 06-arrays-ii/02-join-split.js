@@ -58,15 +58,15 @@
 // console.log(myArr);
 
 
-let myStr = 'tacocat';
+// let myStr = 'tacocat';
 // myStr[0] = 'L';
-const myArr = myStr.split('');
-console.log(myArr)
+// const myArr = myStr.split('');
+// console.log(myArr)
 
-// // // // this can't happen if it's a string
-myArr[0] = 'L';
+// // this can't happen if it's a string
+// myArr[0] = 'L';
 // myArr[1] = 'o';
 
-console.log(myArr);
-myStr = myArr.join('');
-console.log(myStr);
+// console.log(myArr);
+// myStr = myArr.join('');
+// console.log(myStr);

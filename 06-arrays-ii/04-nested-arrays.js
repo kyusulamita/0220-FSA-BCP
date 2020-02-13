@@ -32,11 +32,11 @@
 // }
 
 
-let grid = [
-  [11, 12, 13],
-  [21, 22, 23],
-  [31, 32, 33],
-];
+// let grid = [
+//   [11, 12, 13],
+//   [21, 22, 23],
+//   [31, 32, 33],
+// ];
 // console.log(grid);
 // row
 // console.log(grid[1])
@@ -50,13 +50,13 @@ let grid = [
 // }
 // console.log(firstColumn);
 
-for (let i = 0; i < grid.length; i++) {
-  const row = grid[i]; // grab the row
-  console.log(row);
-  for (let j = 0; j < row.length; j++){ // iterate over every element in the row
-    // const elem = row[j]; //grid[i][j]
+// for (let i = 0; i < grid.length; i++) {
+//   const row = grid[i]; // grab the row
+//   console.log(row);
+//   for (let j = 0; j < row.length; j++){ // iterate over every element in the row
+//     // const elem = row[j]; //grid[i][j]
 
-    // console.log("The elem at row", i + 1, "and column", j+1, "is", elem);
-  }
-}
+//     // console.log("The elem at row", i + 1, "and column", j+1, "is", elem);
+//   }
+// }
 
