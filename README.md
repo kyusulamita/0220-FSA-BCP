@@ -82,3 +82,11 @@
 [Full Notes (file)](04-scope/scope.js)
 
 **[Live Lecture](https://youtu.be/t7m-cFwBc9k)**
+
+## **05 Arrays I**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18b/text)
+
+[Full Notes (repl.it)](https://repl.it/@mlisonek/2002-Arrays-I)
+
+[Full Notes (file)](05-arrays-1/05-arrays-1.js)
