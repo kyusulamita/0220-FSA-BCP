@@ -90,3 +90,5 @@
 [Full Notes (repl.it)](https://repl.it/@mlisonek/2002-Arrays-I)
 
 [Full Notes (file)](05-arrays-1/05-arrays-1.js)
+
+**[Live Lecture](https://youtu.be/lSwyuVRaLcg)**
