@@ -87,6 +87,8 @@
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18b/text)
 
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18c/text)
+
 [Full Notes (repl.it)](https://repl.it/@mlisonek/2002-Arrays-I)
 
 [Full Notes (file)](05-arrays-1/05-arrays-1.js)
