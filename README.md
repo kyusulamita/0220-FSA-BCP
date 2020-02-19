@@ -118,6 +118,8 @@
 
 ## **07 Objects**
 
+**[Live Lecture](https://youtu.be/Ooo8sQ3NBg0)**
+
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
 
 ### Notes
