@@ -89,13 +89,13 @@
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18c/text)
 
+### Notes
+
 [Full Notes (repl.it)](https://repl.it/@mlisonek/2002-Arrays-I)
 
 [Full Notes (file)](05-arrays-1/05-arrays-1.js)
 
 **[Live Lecture](https://youtu.be/lSwyuVRaLcg)**
-
-
 
 ## **06 Arrays II**
 
@@ -107,7 +107,8 @@
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac579437ec3340004bdde15/content/5ac579437ec3340004bdde1b/text)
 
-### Notes 
+### Notes
+
 [Full Notes](06-array-ii)
 
 1. [Splice](06-array-ii/01-splice.js)
@@ -115,3 +116,11 @@
 3. [Concat](06-array-ii/03-concat.js)
 4. [Nested Arrays](06-array-ii/04-nested-arrays.js)
 
+## **07 Objects**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
+
+### Notes
+
+[Full Notes (file)](07-objects/objects.js)
+[Full Notes (repl.it)](https://repl.it/@mlisonek/2002-Objects)
