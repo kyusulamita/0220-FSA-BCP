@@ -122,6 +122,8 @@
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb215/text)
 
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac57b3ebd9f9e0004adb210/content/5ac57b3ebd9f9e0004adb216/text)
+
 ### Notes
 
 [Full Notes (file)](07-objects/objects.js)
