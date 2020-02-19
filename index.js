@@ -1,1 +1,1 @@
-require('./06-arrays-ii/05-break-keyword.js')
+require('./08-object-methods/01-what-are-methods.js')

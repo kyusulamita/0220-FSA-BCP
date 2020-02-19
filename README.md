@@ -128,3 +128,23 @@
 
 [Full Notes (file)](07-objects/objects.js)
 [Full Notes (repl.it)](https://repl.it/@mlisonek/2002-Objects)
+
+
+## **08 Object Methods**
+
+**[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24f/text)**
+
+**[Live Lecture](https://youtu.be/RF7N8ImR2po)**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24e/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text)
+
+### Notes 
+[Full Notes](08-objects-methods)
+
+1. [What Are Methods](08-object-methods/01-what-are.js)
+2. [Creating Methods](08-object-methods/02-creating-methods.js)
+3. [Object Methods](08-object-methods/03-object-methods.js)
+4. [This Keyword](08-object-methods/04-this-keyword.js)
+5. [Calculator Example](08-object-methods/05-calc-example.js)
