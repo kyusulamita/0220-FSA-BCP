@@ -129,7 +129,21 @@
 [Full Notes (file)](07-objects/objects.js)
 [Full Notes (repl.it)](https://repl.it/@mlisonek/2002-Objects)
 
+## **07 Objects I - Additional Notes**
 
+
+### Notes 
+[Full Notes](07-objects-i)
+
+1. [What is an Object](07-objects-i/01-what-is-an-object.js)
+2. [Create And Access](07-objects-i/02-create-and-access.js)
+3. [New Key-Value Pairs](07-objects-i/03-new-key-value-pairs.js)
+4. [Delete Key-Value Pairs](07-objects-i/04-delete-key-value-pairs.js)
+5. [In Operator](07-objects-i/05-in-operator.js)
+6. [For In Loop](07-objects-i/06-for-in-loop.js)
+7. [Object Methods](07-objects-i/07-object-methods.js)
+8. [Nested Arrays](07-objects-i/08-nested-arrays.js)
+9. [Nested Objects](07-objects-i/09-nested-object.js)
 ## **08 Object Methods**
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24f/text)**
