@@ -171,6 +171,8 @@
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62bf/text)
 
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62c1/text)
+
 ### Notes
 
 [Full Notes (file)](09-pbvVsPbr/pbvVsPbr.js)
