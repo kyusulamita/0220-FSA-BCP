@@ -131,8 +131,8 @@
 
 ## **07 Objects I - Additional Notes**
 
+### Notes
 
-### Notes 
 [Full Notes](07-objects-i)
 
 1. [What is an Object](07-objects-i/01-what-is-an-object.js)
@@ -144,6 +144,7 @@
 7. [Object Methods](07-objects-i/07-object-methods.js)
 8. [Nested Arrays](07-objects-i/08-nested-arrays.js)
 9. [Nested Objects](07-objects-i/09-nested-object.js)
+
 ## **08 Object Methods**
 
 **[Prerecorded Lecture](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24f/text)**
@@ -154,7 +155,8 @@
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text)
 
-### Notes 
+### Notes
+
 [Full Notes](08-objects-methods)
 
 1. [What Are Methods](08-object-methods/01-what-are.js)
@@ -162,3 +164,12 @@
 3. [Object Methods](08-object-methods/03-object-methods.js)
 4. [This Keyword](08-object-methods/04-this-keyword.js)
 5. [Calculator Example](08-object-methods/05-calc-example.js)
+
+## **09 PBV vs. PBR**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62bf/text)
+
+### Notes
+
+[Full Notes (file)](09-pbvVsPbr/pbvVsPbr.js)
+[Full Notes (repl.it)](https://repl.it/@mlisonek/2002-PBR-vs-PBV)
