@@ -167,6 +167,8 @@
 
 ## **09 PBV vs. PBR**
 
+**[Live Lecture](https://youtu.be/WnZcaTRaip0)**
+
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca3ccb37312200043b62bb/content/5aca3ccb37312200043b62bf/text)
 
 ### Notes
