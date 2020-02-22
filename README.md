@@ -177,3 +177,25 @@
 
 [Full Notes (file)](09-pbvVsPbr/pbvVsPbr.js)
 [Full Notes (repl.it)](https://repl.it/@mlisonek/2002-PBR-vs-PBV)
+
+## **10 High Order Functions I**
+
+**[Live Lecture](https://youtu.be/ah4-3FlaGn4)**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fb/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fd/text)
+
+### Notes 
+[Full Notes](10-high-order-functions-i)
+
+1. [Values and Arrays](10-high-order-functions-i/01-values-and-arrays.js) 
+2. [Functions And Arrays](10-high-order-functions-i/02-functions-and-arrays.js)      
+3. [Calling functions in array](10-high-order-functions-i/03-calling-functions-in-array.js)    
+4. [Passing functions into functions](10-high-order-functions-i/04-passing-functions-into-functions.js)
+5. [callsWithName Example](10-high-order-functions-i/05-calls-with-name-example.js)  
+6. [callsWithHello Example](10-high-order-functions-i/06-calls-with-hello-example.js)       
+7. [callsWithAll Example](10-high-order-functions-i/07-calls-all-with-example.js)
+8. [calc Example](10-high-order-functions-i/08-calc-example.js)
+9. [.forEach and .map](10-high-order-functions-i/09-forEach-map-array-method.js)    
+10. [mySplice Review](10-high-order-functions-i/10-mySplice-review.js)
