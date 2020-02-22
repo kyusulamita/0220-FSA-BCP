@@ -20,5 +20,5 @@ function callsWithName(name, otherFunc) {
 }
 
 callsWithName('Sadie', saysHi);  // saysHi('Sadie')  // `Hi Sadie!`
-callsWithName('Sadie', saysBye); // saysBye('Sadie')
+// callsWithName('Sadie', saysBye); // saysBye('Sadie')
 

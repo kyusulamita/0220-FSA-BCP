@@ -18,10 +18,11 @@ function sleepingFunction(person){
 }
 
 let amazingArray = [happyFunction, jumpingFunction, sleepingFunction];
-// console.log(amazingArray);
+console.log(amazingArray);
+
 
 for (let i = 0; i < amazingArray.length; i++) {
   let element = amazingArray[i]; // each element is a function!
-  // element('Pusheen');
+  element('Pusheen');
   // element;
 }

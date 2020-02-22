@@ -1,1 +1,1 @@
-require('./08-object-methods/01-what-are-methods.js')
+require('./10-high-order-functions-i/09-forEach-map-array-method.js')

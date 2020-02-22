@@ -44,10 +44,12 @@ function addsEveryone(string) {
 }
 
 let result1 = callsWithHello(addWorld);  
-console.log(result1);
-// let result1 = addWorld('hello')
+console.log(result1); // Hello world!!!
+
+// let result1 = addWorld('hello') 
 // result1 = result1 + '!!!';
-let result2 = callsWithHello(addsEveryone);
+
+let result2 = callsWithHello(addsEveryone); // Hello everyone!!
 // let result2 = addsEveryone('hello')
 // result2 = result2 + '!!!';
 

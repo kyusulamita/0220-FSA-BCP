@@ -21,13 +21,21 @@
     each element is the result of the callBackFunc
 */
 
-// let bridges = ['Brooklyn', 'Golden Gate', 'London'];
+let bridges = ['Brooklyn', 'Golden Gate', 'London'];
 
-// function logUpperCase(elem) {
-//   console.log(elem.toUpperCase());
-// }
+function logUpperCase(elem, idx, arr) {
+  console.log(elem.toUpperCase());
+  console.log(idx);
+  // break  continue
+  return elem.toUpperCase();
+}
 
-// bridges.forEach(logUpperCase);
+const returned = bridges.forEach(logUpperCase);
+// console.log(bridges);
+// const returned2 = bridges.map(logUpperCase);
+// console.log(returned); //undefined
+// console.log(returned2); // []
+
 
 // const pets = ['Mr Bear', 'Pusheen', 'Sookie', 'Winkie'];
 

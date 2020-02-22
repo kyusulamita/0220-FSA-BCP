@@ -1,0 +1,20 @@
+{
+  "name": "0220-FSA-BCP-4",
+  "version": "1.0.0",
+  "description": "[![Run on Repl.it](https://repl.it/badge/github/kyusulamita/0220-FSA-BCP)](https://repl.it/github/kyusulamita/0220-FSA-BCP)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyusulamita/0220-FSA-BCP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyusulamita/0220-FSA-BCP/issues"
+  },
+  "homepage": "https://github.com/kyusulamita/0220-FSA-BCP#readme"
+}

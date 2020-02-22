@@ -39,9 +39,11 @@ https://goo.gl/r7dHnj
 
 
 function callsAFunction(anotherFunction) {
+  // anotherFunction => sleepingFunction
   // anotherFunction(); // invoking this time
   console.log("running");
-  anotherFunction();
+  // anotherFunction() -> sleepingFunction();
+  anotherFunction("Pusheen");
 }
 
 function happyFunction() {
@@ -56,5 +58,6 @@ function sleepingFunction(person){
   console.log(`${person} is sleeping`)
 }
 
-callsAFunction(sleepingFunction);
+// callsAFunction(sleepingFunction);
+// sleepingFunction("Pusheen");
 
