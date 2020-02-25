@@ -199,3 +199,26 @@
 8. [calc Example](10-high-order-functions-i/08-calc-example.js)
 9. [.forEach and .map](10-high-order-functions-i/09-forEach-map-array-method.js)    
 10. [mySplice Review](10-high-order-functions-i/10-mySplice-review.js)
+
+
+
+## **11 High Order Functions II**
+
+**[Live Lecture](https://youtu.be/7pQbDujDsAA)**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9a/text)
+
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9c/text)
+
+### Notes 
+[Full Notes](11-high-order-functions-ii)
+
+1. [Functions return values](11-high-order-functions-ii/01-functions-return-values.js)
+2. [Functions return functions](11-high-order-functions-ii/02-functions-return-functions.js)
+3. [Functions return functions II](11-high-order-functions-ii/03-functions-return-invoked-functions.js)
+4. [getGreeter example](11-high-order-functions-ii/04-getGreeter-returning-functions.js)
+5. [Scope Refresher](11-high-order-functions-ii/05-scope-refresher.js)
+6. [What is Closure?](11-high-order-functions-ii/06-what-is-closure.js)
+7. [High Order Function + Params](11-high-order-functions-ii/07-high-order-function-with-params.js)
+8. [Both have params](11-high-order-functions-ii/08-both-have-params.js)
+9. [Both have params II](11-high-order-functions-ii/09-both-have-params-ii.js)

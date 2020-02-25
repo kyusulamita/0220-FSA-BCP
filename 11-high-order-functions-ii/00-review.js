@@ -1,26 +1,42 @@
-// function whosASpecial(arrayOfPets) {
-//   let result = ''
-//   arrayOfPets.forEach(function(element, idx) {
-//     let name = element.name;
-//     let species = element.species;
-//     let sentence = `${name} the ${species} is very special!`;
-//     if (idx !== arrayOfPets.length - 1) {
-//       sentence += ' '
-//     }
-//     result += sentence;
-//   });
-
-//   return result;
-// }
-
-// function whosASpecial(arrayOfPets) {
-//   const arrayOfSentences = arrayOfPets.map(function(element) {
-//     let name = element.name;
-//     let species = element.species;
-//     return `${name} the ${species} is very special!`;
-//   });
+function whosASpecial(pets){
+  // Sadie the cat is very special! Layla the cat is very special! Bogie the dog is very special!
+  let newStr = '';
+  // for (let i = 0; i < pets.length; i++) {
+  //   const pet = pets[i]; 
+  // //   {
+  // //   name: 'Sadie',
+  // //   species: 'cat'
+  // // }
+  //   // const name = pet.name;
+  //   // const species = pet.species;
+  //   const { name, species } = pet;
+  //   newStr += `${name} the ${species} is very special!`;
+  //   if (i !== pets.length - 1){
+  //     newStr += ' ';
+  //   }
+  // }
   
-//   console.log(arrayOfSentences);
+  // pets.forEach(function(pet, idx) {
+  //   const { name, species } = pet;
+  //   newStr += `${name} the ${species} is very special!`;
+  //   if (idx !== pets.length - 1){
+  //     newStr += ' ';
+  //   }
+  // });
+  // return pets.join('!')
+  // const sentences = [];
+  // pets.forEach(function(pet, idx) {
+  //   const { name, species } = pet;
+  //   const sentence =  `${name} the ${species} is very special!`;
+  //   sentences.push(sentence);
+  // });
   
-//   return arrayOfSentences.join(' ');
-// }
+  const sentences = pets.map(function(pet, idx) {
+    const { name, species } = pet;
+    const sentence =  `${name} the ${species} is very special!`;
+    return sentence;
+  })
+  
+  return sentences.join(' ');
+  
+}
