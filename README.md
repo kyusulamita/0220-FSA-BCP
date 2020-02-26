@@ -225,6 +225,8 @@
 
 ## **12 Recursion I**
 
+**[Live Lecture](https://youtu.be/q2nl0fd4zSM)**
+
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b634e/text)
 
 ### Notes
