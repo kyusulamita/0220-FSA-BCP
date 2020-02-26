@@ -186,21 +186,20 @@
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fd/text)
 
-### Notes 
+### Notes
+
 [Full Notes](10-high-order-functions-i)
 
-1. [Values and Arrays](10-high-order-functions-i/01-values-and-arrays.js) 
-2. [Functions And Arrays](10-high-order-functions-i/02-functions-and-arrays.js)      
-3. [Calling functions in array](10-high-order-functions-i/03-calling-functions-in-array.js)    
+1. [Values and Arrays](10-high-order-functions-i/01-values-and-arrays.js)
+2. [Functions And Arrays](10-high-order-functions-i/02-functions-and-arrays.js)
+3. [Calling functions in array](10-high-order-functions-i/03-calling-functions-in-array.js)
 4. [Passing functions into functions](10-high-order-functions-i/04-passing-functions-into-functions.js)
-5. [callsWithName Example](10-high-order-functions-i/05-calls-with-name-example.js)  
-6. [callsWithHello Example](10-high-order-functions-i/06-calls-with-hello-example.js)       
+5. [callsWithName Example](10-high-order-functions-i/05-calls-with-name-example.js)
+6. [callsWithHello Example](10-high-order-functions-i/06-calls-with-hello-example.js)
 7. [callsWithAll Example](10-high-order-functions-i/07-calls-all-with-example.js)
 8. [calc Example](10-high-order-functions-i/08-calc-example.js)
-9. [.forEach and .map](10-high-order-functions-i/09-forEach-map-array-method.js)    
+9. [.forEach and .map](10-high-order-functions-i/09-forEach-map-array-method.js)
 10. [mySplice Review](10-high-order-functions-i/10-mySplice-review.js)
-
-
 
 ## **11 High Order Functions II**
 
@@ -210,7 +209,8 @@
 
 [Solutions](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9c/text)
 
-### Notes 
+### Notes
+
 [Full Notes](11-high-order-functions-ii)
 
 1. [Functions return values](11-high-order-functions-ii/01-functions-return-values.js)
@@ -222,3 +222,12 @@
 7. [High Order Function + Params](11-high-order-functions-ii/07-high-order-function-with-params.js)
 8. [Both have params](11-high-order-functions-ii/08-both-have-params.js)
 9. [Both have params II](11-high-order-functions-ii/09-both-have-params-ii.js)
+
+## **12 Recursion I**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b634e/text)
+
+### Notes
+
+[Full Notes (file)](12-Recursion-I/recursion.js)
+[Full Notes (repl.it)](https://repl.it/@mlisonek/2002-Recursion-I)
