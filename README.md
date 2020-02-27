@@ -242,6 +242,8 @@
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6426/text)
 
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6428/text)
+
 ### Notes
 
 [Full Notes (file)](13-Recursion-II/recursion.js)
