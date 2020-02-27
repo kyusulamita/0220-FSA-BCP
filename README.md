@@ -238,6 +238,8 @@
 
 ## **13 Recursion II**
 
+**[Live Lecture](https://youtu.be/SiXJE31V5to)**
+
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6426/text)
 
 ### Notes
