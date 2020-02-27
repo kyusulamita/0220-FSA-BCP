@@ -235,3 +235,12 @@
 
 [Full Notes (file)](12-Recursion-I/recursion.js)
 [Full Notes (repl.it)](https://repl.it/@mlisonek/2002-Recursion-I)
+
+## **13 Recursion II**
+
+[Workshop](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6426/text)
+
+### Notes
+
+[Full Notes (file)](13-Recursion-II/recursion.js)
+[Full Notes (repl.it)](https://repl.it/@mlisonek/2002-Recursion-II)
